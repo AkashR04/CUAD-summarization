@@ -34,7 +34,7 @@ CUAD is a curated dataset maintained by The Atticus Project, Inc. It serves as a
 
 ## Results
 
-The results of the analysis, including evaluation metrics and comparison of the summarization models, can be found in [[link to the results file or notebook](https://colab.research.google.com/github/AkashR04/CUAD-summarization/blob/main/Summarization_Demo_Smaller_Evaluation.ipynb)].
+The results of the analysis, including evaluation metrics and comparison of the summarization models, can be found in [[link to the results notebook](https://colab.research.google.com/github/AkashR04/CUAD-summarization/blob/main/Summarization_Demo_Smaller_Evaluation.ipynb)].
 
 ## Contributing
 
