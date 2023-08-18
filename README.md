@@ -1,7 +1,5 @@
 # Contract Analyzer and Summarizer
 
-# Document Summarization Analysis
-
 This repository contains an analysis of various summarization models for contract summarization. The goal is to evaluate the performance and effectiveness of different models in generating concise and informative summaries from longer documents.
 
 ## Table of Contents
